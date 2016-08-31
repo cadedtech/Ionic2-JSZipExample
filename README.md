@@ -8,16 +8,16 @@ A repo to demonstrate using non-typescript Javascript libraries in their Ionic 2
 <p class="alert alert-warn">If you decide to download it, you will likely need to do a couple of things to get it running:<ol><li>CD into the directory of the extracted/cloned project</li>
 <li>Run the following commands from the terminal (prepend the statements with "sudo" if you're on a mac machine):
 
-``` terminal
+``` 
 $ npm install 
 ```
-``` terminal
+``` 
 $ gulp build 
 ```
-``` terminal
+``` 
 $ ionic build 
 ``` 
-``` terminal
+``` 
 $ ionic serve 
 ``` 
 
